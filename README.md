@@ -28,3 +28,10 @@ Hasil:
 ![praktikum 1 soal 3](assets-report/1-3.png)
 
 Hal yang saya pelajari variasi dari penerapan context, yaitu dapat diubah di dalam atribut value providernya.
+
+### Praktikum 2
+
+### Soal 4
+
+Hasil:
+![praktikum 2 soal 4](assets-report/2.png)
