@@ -22,3 +22,9 @@ Hasil akhir:
 ![praktikum 1 soal 2](assets-report/1-2%20.png)
 
 Hal yang saya pelajari adalah penerapan context sebagai salah satu cara memanfaatkan prop supaya memudahkan pengiriman data dari parent ke child. Terdapat error pada program yaitu perlu menambahkan 'use client'. Saya menyelesaikan dengan menambahkan 'use client' pada main_page.tsx.
+
+### Soal 3
+Hasil:
+![praktikum 1 soal 3](assets-report/1-3.png)
+
+Hal yang saya pelajari variasi dari penerapan context, yaitu dapat diubah di dalam atribut value providernya.
