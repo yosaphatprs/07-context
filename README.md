@@ -35,3 +35,18 @@ Hal yang saya pelajari variasi dari penerapan context, yaitu dapat diubah di dal
 
 Hasil:
 ![praktikum 2 soal 4](assets-report/2.png)
+
+### Praktikum 3
+
+### Soal 5
+
+Hasil:
+![praktikum 3 soal 5](assets-report/3-1.png)
+
+Hasil:
+![praktikum 3 soal 5](assets-report/3-2.png)
+
+1. Toggle button sudah berfungsi
+2. Karena setiap berubah halaman maka akan membuat provider baru, sehingga context kembali ke awal yaitu light theme. Hal ini dapat diatasi dengan menyimpan context/state dari theme saat itu di dalam local storage. Berikut perubahan yang saya lakukan:
+
+![praktikum 3 soal 5 perbaikan](assets-report/3-3.png)
